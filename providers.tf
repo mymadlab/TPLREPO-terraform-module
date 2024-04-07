@@ -10,9 +10,9 @@ terraform {
     }
   }
 
- required_version = ">= v1.7.5"
+  required_version = ">= v1.7.5"
 }
 
 provider "provider1" {
-  
+
 }
